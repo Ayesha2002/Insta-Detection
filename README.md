@@ -6,6 +6,7 @@ A simple headstart project using javascript and html. It is all about detection 
 - Happy😃
 - Sad😔
 - Angry😡
-- neutral😐
+- Neutral😐
+- Shocked😮
 
 
